@@ -8,7 +8,7 @@ Be a part of the project by ⭐️(star) & ⑂(forking) this project.
 
 This is a simple PHP CRUD (Create, Read, Update, Delete) demo project that demonstrates basic database operations using PHP and MySQL.
 
-![Screenshot](D.jpg)
+![Screenshot](screenshot.png)
 
 ## Features
 
