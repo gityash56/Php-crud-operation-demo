@@ -9,7 +9,7 @@ Be a part of the project by ⭐️(star) & ⑂(forking) this project.
 This is a simple PHP CRUD (Create, Read, Update, Delete) demo project that demonstrates basic database operations using PHP and MySQL.
 
 ![Screenshot](che.jpg)
-<image src="https://github.com/gityash56/images/Actor 2022 01 18 07 11 25 PM.jpg"  width="150" height="300" >
+![php_crud_poster](https://github.com/gityash56/Php-crud-operation-demo/assets/90525149/623a2974-e38a-49ff-b85d-7c1418c916b5)
 
 ## Features
 
