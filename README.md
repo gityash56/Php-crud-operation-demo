@@ -10,7 +10,7 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) demo project that demon
 
 ![Screenshot](screenshot.png)
 
-<image src="https://github.com/gityash56/Php-crud-operation-demo/images/Actor 2022 01 18 07 11 25 PM.jpg"  width="150" height="300" >
+<image src="https://github.com/gityash56/images/Actor 2022 01 18 07 11 25 PM.jpg"  width="150" height="300" >
 
 ## Features
 
