@@ -12,6 +12,10 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) demo project that demon
 
 ![php_crud_poster](https://github.com/gityash56/Php-crud-operation-demo/assets/90525149/d003fe4e-1938-4bf3-b47a-e0f7eaddeeea)
 
+# Youtube
+
+[Youtube Live Video 👆](https://youtu.be/ztDuTeunFaw?si=qkQG8v0O12frVtm2)
+
 ## Features
 
 - Create, Read, Update, and Delete records in a MySQL database.
